@@ -1,0 +1,14 @@
+{
+    "pk": "9c71e9dd72792cf23ffe0c12058f32d7736568e30da8de17173b0fcb6e1be89f",
+    "address": "0x18d87046A6493749A392061291012365B0d88f41",
+    "bscapi": "ZAVAIFHWG4HY97W6TK3UY9M1S1EGAYQ4XX",
+    "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+    "ocp": "0x2A1654c8d826C162dB4aEC2F8c2c995a8Cefc222",
+    "pancake": "0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3",
+    "endpoint": "https://api-testnet.bscscan.com/",
+    "methodId_addliquidity": "0xf305d719",
+    "methodId_buy": ["0xfb3bdb41", "0x7ff36ab5", "0x38ed1739", "0x8803dbee"],
+    "start_block": 	27116022,
+    "launchPercent": 0.001,
+    "launchTime": 1675921797195
+}

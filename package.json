@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ethers": "^6.0.2",
+    "firebase": "^9.17.1",
+    "firebase-admin": "^11.5.0",
+    "node-cron": "^3.0.2",
+    "web3": "^1.8.2"
+  }
+}
